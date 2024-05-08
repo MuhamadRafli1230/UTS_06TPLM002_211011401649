@@ -37,7 +37,7 @@ class _MyHomePageState extends State<MyHomePage> {
         ),
         actions: <Widget>[
         ClipOval(
-                  child: Image.asset('../assets/Picture1.png',
+                  child: Image.asset('../assets/profile.png',
                   width: 45, // Sesuaikan ukuran gambar sesuai kebutuhan Anda
                   height: 45,
                   fit: BoxFit.cover, // Sesuaikan mode gambar sesuai kebutuhan Anda
